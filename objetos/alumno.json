@@ -1,0 +1,50 @@
+[
+    {
+    "id": 1,
+    "no_control": "20415082060218",
+    "nombre": "Sofia",
+    "ap": "Villegas",
+    "am": "Garcia",
+    "direccion": {
+        "calle": "No se",
+        "colonia": "Tampoco se",
+        "no": 41,
+        "municipio": "Menoos",
+        "cp": 55614
+    },
+    "casado": true,
+    "hermanos": ["Quien sabe"]
+    },
+    {
+    "id": 2,
+    "no_control": "212424250500",
+    "nombre": "Jose Antonio",
+    "ap": "Orihuela",
+    "am": "Hernandez",
+    "direccion": {
+        "calle": "Av.16 de Septiembre",
+        "colonia": "No sabe el tonto",
+        "no": 69,
+        "municipio": "Tecamac",
+        "cp": 55584
+    },
+    "casado": false,
+    "hermanos": ["Cesar"]
+    },
+    {
+    "id": 3,
+    "no_control": "8458165135165",
+    "nombre": "Lupita",
+    "ap": "Orihuela",
+    "am": "Camargo",
+    "direccion": {
+        "calle": "Av.16 de Septiembre",
+        "colonia": "Tampoco sabe la mensa",
+        "no": 13,
+        "municipio": "Tecamac",
+        "cp": 55849
+    },
+    "casado": false,
+    "hermanos": ["Tania","Jose"]
+    }
+]
