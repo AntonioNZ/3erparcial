@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvAKm_EqPvX4h_8uXJc_enk2TB22D13WWrbF96y4xqb_XhqOYrcRN9ItQMaoPo7LHChM&usqp=CAU) no-repeat center center fixed;
+    background-size: 100% 100%;
+}
