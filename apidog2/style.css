@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(https://i.pinimg.com/originals/66/e1/02/66e102ad279ee69ca7f5a110855cc34e.jpg) no-repeat center center fixed;
+    background-size: 100% 100%;
+}
+.imgPerrito{
+    border: 3px solid black;
+}
