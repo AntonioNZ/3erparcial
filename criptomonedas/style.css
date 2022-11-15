@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body { 
+    background-image: url("https://wiki.lemon.me/wp-content/uploads/2022/04/la-historia-de-bitcoin.gif"); 
+    background-position: center 25%; 
+    background-size: cover; 
+} 
+#titu{
+    color: blanchedalmond;
+}
+#titulo{
+    font-size: 50px;
+    color: blanchedalmond;
+}
