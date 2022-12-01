@@ -118,7 +118,7 @@ try {
     console.log(respuesta.user);
     Swal.fire({
     icon: "success",
-    title: "exito",
+    title: "EXITO",
     text: "Se Registro Correctamente!!",
     });
     email.value = "";
@@ -129,20 +129,20 @@ try {
     const code = error.code;
     if (code == "auth/invalid-email") {
     Swal.fire({
-        icon: "error",
+        icon: "ERROR",
         text: "Email Invalido!",
     });
     }
     if (code == "auth/weak-password") {
     Swal.fire({
-        icon: "error",
+        icon: "ERROR",
         text: "Password Invalida!",
     });
     }
-    if (code == "auth/email-already-in-user") {
+    if (code == "auth/email-already-in-use") {
     Swal.fire({
-        icon: "error",
-        text: "Email Ya Esta Registrado!",
+        icon: "ERROR",
+        text: "El Email Ya Esta Registrado!",
     });
     }
 }
